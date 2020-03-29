@@ -14,7 +14,7 @@ COPY . .
 RUN yarn config set registry https://registry.npm.taobao.org
 RUN yarn
 
-EXPOSE 8080
+EXPOSE 7001
 
 # Running the app
 CMD [ "yarn", "start-frontground" ]
