@@ -24,6 +24,7 @@
     "node": ">=10.0.0"
   },
   "scripts": {
+    "start-frontground": "egg-scripts start --title=eegg-server-gitbook-mirror --workers=1",
     "start": "egg-scripts start --daemon --title=egg-server-gitbook-mirror",
     "stop": "egg-scripts stop --title=egg-server-gitbook-mirror",
     "dev": "egg-bin dev",
