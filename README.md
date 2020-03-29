@@ -1,5 +1,7 @@
 # gitbook-mirror
 
+> A gitbook website mirror project aims to duplicate gitbook website in China. 
+
 
 
 ## QuickStart
